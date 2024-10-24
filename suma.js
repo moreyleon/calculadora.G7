@@ -1,6 +1,6 @@
 
-function sumar (a,b) {
+function sumar (a, b) {
     return a + b;
 }
 
-modelue.export=sumar;
+module.exports = sumar;
