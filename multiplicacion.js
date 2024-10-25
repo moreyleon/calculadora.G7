@@ -1,5 +1,10 @@
-function multiplicacion(a,b) {
+function multiplicar(a,b) {
     return a * b
 }
 
-module.exports = multiplicacion.js;
+module.exports = multiplicar;
+
+ 
+
+
+
