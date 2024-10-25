@@ -1,5 +1,5 @@
 const sumar = require("./suma.js");
-const resta = require("./resta.js");
+const restar = require("./resta.js");
 const division = require("./division.js");
 const multiplicacion = require("./multiplicacion.js");
 
