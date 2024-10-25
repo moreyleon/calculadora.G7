@@ -5,5 +5,5 @@ const multiplicacion = require("./multiplicacion.js");
 
 console.log(sumar());
 console.log(resta());
-console.log(divicion());
+console.log(division());
 console.log(multiplicacion());
