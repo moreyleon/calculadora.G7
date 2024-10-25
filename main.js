@@ -15,5 +15,3 @@ console.log(multiplicar(4,3));
 console.log(potencia(5,2));
 console.log(raiz(4));
 
-
-
